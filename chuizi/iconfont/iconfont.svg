@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20120731 at Wed May 31 11:04:32 2017
+ By admin
+</metadata>
+<defs>
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face 
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="2 0 6 3 0 0 0 0 0 0"
+    ascent="896"
+    descent="-128"
+    x-height="792"
+    bbox="44 -160 959 880"
+    underline-thickness="0"
+    underline-position="0"
+    unicode-range="U+0078-E6D6"
+  />
+<missing-glyph 
+ />
+    <glyph glyph-name=".notdef" 
+ />
+    <glyph glyph-name=".notdef" 
+ />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="341" 
+ />
+    <glyph glyph-name="x" unicode="x" horiz-adv-x="1001" 
+d="M281 543q-27 -1 -53 -1h-83q-18 0 -36.5 -6t-32.5 -18.5t-23 -32t-9 -45.5v-76h912v41q0 16 -0.5 30t-0.5 18q0 13 -5 29t-17 29.5t-31.5 22.5t-49.5 9h-133v-97h-438v97zM955 310v-52q0 -23 0.5 -52t0.5 -58t-10.5 -47.5t-26 -30t-33 -16t-31.5 -4.5q-14 -1 -29.5 -0.5
+t-29.5 0.5h-32l-45 128h-439l-44 -128h-29h-34q-20 0 -45 1q-25 0 -41 9.5t-25.5 23t-13.5 29.5t-4 30v167h911zM163 247q-12 0 -21 -8.5t-9 -21.5t9 -21.5t21 -8.5q13 0 22 8.5t9 21.5t-9 21.5t-22 8.5zM316 123q-8 -26 -14 -48q-5 -19 -10.5 -37t-7.5 -25t-3 -15t1 -14.5
+t9.5 -10.5t21.5 -4h37h67h81h80h64h36q23 0 34 12t2 38q-5 13 -9.5 30.5t-9.5 34.5q-5 19 -11 39h-368zM336 498v228q0 11 2.5 23t10 21.5t20.5 15.5t34 6h188q31 0 51.5 -14.5t20.5 -52.5v-227h-327z" />
+    <glyph glyph-name="microsoft" unicode="&#xe614;" 
+d="M64 316h368v358l-368 -43v-315zM484 680v-364h475v420zM64 -52l368 -42v357h-368v-315zM484 -100l475 -55v418h-475v-363z" />
+    <glyph glyph-name="android" unicode="&#xe617;" 
+d="M839.5 455q-22.5 0 -38.5 -16t-16 -39v-216q0 -23 16 -39.5t38.5 -16.5t38.5 16.5t16 39.5v216q0 23 -16 39t-38.5 16zM182.5 455q-22.5 0 -38.5 -16t-16 -39v-216q0 -23 16 -39.5t38.5 -16.5t38.5 16.5t16 39.5v216q0 23 -16 39t-38.5 16zM270 454v-395
+q0 -18 12.5 -30.5t29.5 -12.5h49v-120q0 -23 16 -39.5t38.5 -16.5t38.5 16.5t16 39.5v120h84v-120q0 -23 16 -39.5t39 -16.5t38.5 16.5t15.5 39.5v120h49q18 0 30 12.5t12 30.5v395h-484zM626 658l45 65q5 7 -1.5 11.5t-11.5 -2.5l-46 -68q-48 19 -101 19t-101 -19l-46 68
+q-5 7 -11 2.5t-2 -11.5l45 -65q-54 -25 -88.5 -70t-38.5 -99h484q-4 54 -38.5 99t-88.5 70zM409 556q-11 0 -19 8t-8 19t8 18.5t19 7.5t19 -7.5t8 -18.5t-8 -19t-19 -8zM617 556q-11 0 -19 8t-8 19t8 18.5t19 7.5t18.5 -7.5t7.5 -18.5t-7.5 -19t-18.5 -8z" />
+    <glyph glyph-name="pingguo" unicode="&#xe6d6;" 
+d="M644 607q22 25 33.5 61t11.5 58v23q-9 -1 -24.5 -3.5t-51 -19t-57.5 -42.5t-33.5 -61.5t-11.5 -58.5v-23q9 1 24.5 4t51.5 19.5t57 42.5v0zM751 275q0 54 27 99t72 70q-29 42 -76 67t-88 25q-34 0 -97 -21.5t-70.5 -21.5t-59 20t-92.5 20q-34 1 -69.5 -11t-72 -44.5
+t-52.5 -80.5q-18 -53 -22 -114.5t11 -134t50 -138.5q83 -155 161 -155q25 0 79 19t77 19t69 -19t70 -19q35 0 71 26t64 69q16 24 33.5 59.5t27 58l9.5 22.5v6q-54 21 -88 70t-34 109v0zM751 275z" />
+    <glyph glyph-name="you" unicode="&#xe619;" 
+d="M804 376q2 24 -15 41l-446 447q-16 16 -38 16t-38 -16t-16 -38.5t16 -37.5l412 -412l-412 -412q-16 -16 -16 -38t16 -38t38 -16t38 16l446 446q17 17 15 42v0v0v0zM804 376z" />
+  </font>
+</defs></svg>
